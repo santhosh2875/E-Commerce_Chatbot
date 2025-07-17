@@ -18,8 +18,6 @@ e-commerce_chatbot/
 │   └── resources/
 │       ├── faq_data.csv
 │       ├── ecommerce_data_final.csv
-│       ├── architecture-diagram.png
-│       └── product-ss.png
 ├── web-scraping/     # Jupyter notebook to scrape e-commerce data
 │   └── flipkart_data_extraction.ipynb
 ├── requirements.txt  # Dependencies
@@ -89,7 +87,7 @@ streamlit run app/main.py
 ## 👨‍💻 Author
 
 **Santhosh Kumar**    
-Connect with me: [LinkedIn](https://www.linkedin.com/) (Add your link here)
+Connect with me: [LinkedIn](www.linkedin.com/in/santhosh-kumar-9118932b2) 
 
 ---
 
