@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+.myenv/
+*.egg-info/
+
+# Secrets
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/config.toml
+
+# macOS and OS junk
+.DS_Store
